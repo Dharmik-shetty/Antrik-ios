@@ -2,5 +2,7 @@
   "compulsory_update_for_ver_beloworequal": "0",
   "obligatory_update_for_ver_beloworequal": "0",
   "update_link": "",
-   "trial":"0"
+   "trial":"0",
+  "first plan":"weekly-plan",
+  "second-plan":"monthly-plan"
 }
